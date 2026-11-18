@@ -33,6 +33,7 @@ import { light } from './light.js';
 import { plug } from './plug.js';
 import { motionSensor } from './motionSensor.js';
 import { camera } from './camera.js';
+import { interrupteur_virtuel } from './interrupteur_virtuel.js';
 
 export const DEVICE_BLUEPRINTS = [weatherStation, switchDevice, light, plug, motionSensor, camera];
 
